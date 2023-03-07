@@ -17,11 +17,10 @@ I am super excited to call myself a spiceling for the next 12 weeks 😱
 ## 🌍  Social Network
 If you want to know more about me, find me on:
 
-- [Instagram](https://www.instagram.com/moppsch/)
-- [LinkedIn](https://www.linkedin.com/in/moritz-schulenburg-9a853785/)
+- [Instagram](https://www.instagram.com/moppsch/) 
+- [LinkedIn](https://www.linkedin.com/in/moritz-schulenburg-9a853785/)  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50"> 
-
+<a href="(https://www.instagram.com/moppsch/)"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" height="50"></a> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50">
 <!--
 **MoritzSchulenburg/MoritzSchulenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
