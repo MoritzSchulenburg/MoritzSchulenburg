@@ -4,7 +4,7 @@
 
 Im Moritz and I´m 27 years old. Currently I am living in Hamburg.
 
-I am super excited to call myself a spiceling for the next 12 weeks 😱
+I am super excited to call myself a spicedling for the next 12 weeks 😱
 
 
 ## 🔧  Technologies & Tools I´m currently learning at Spiced
